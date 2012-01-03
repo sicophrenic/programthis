@@ -1,8 +1,8 @@
-# Program This
+# Program This (Work in Progress)
 
 This repository hosts all of my solutions to the challenges posted to [programthis](http://programthis.net).
 
-## SOLUTIONS (Work in Progress)
+## SOLUTIONS
 
 Solutions are located at nested folders under challenge names. For example, solutions available to a challenge would be available at: "[ChallengeName]/sic/". Solutions are generally available in three languages: Python, Java, and C.
 
