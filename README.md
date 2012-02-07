@@ -6,7 +6,11 @@ This repository hosts all of my solutions to the challenges posted to [programth
 
 Solutions are located at nested folders under challenge names. For example, solutions available to a challenge would be available at: "[ChallengeName]/sic/". Solutions are generally available in three languages: Python, Java, and C.
 
-Currently Available (Completed) Solutions: { hail-caesar, polynomial, vigenere }
+Currently Available (Completed) Solutions:
+
+* [hail-caesar](https://github.com/sicophrenic/programthis/tree/master/hail-caesar)
+* [polynomial](https://github.com/sicophrenic/programthis/tree/master/polynomial)
+* [vigenere](https://github.com/sicophrenic/programthis/tree/master/vigenere)
 
 ## Project Details
 
